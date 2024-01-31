@@ -5,6 +5,7 @@ Problem Statement : You own the mall and want to understand the customers like w
 
 Ouput:
 cluster-1 (Orange Color) -> Customers with average income and spending score [Middle class customers]
+
 Cluster-2 (Green Color) -> Customer earning high but spending less [Conservative spenders]
 cluster-3 (Yellow Color) -> Customers earning less but spending more [Careless buyer]
 Cluster-4 (blue Color) -> Customers earning less and spending less as well [Moderate buyer ]
